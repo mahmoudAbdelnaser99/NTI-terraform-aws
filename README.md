@@ -72,7 +72,7 @@ This project uses **Terraform** to provision a complete cloud infrastructure on 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/mahmoudAbdelnaser99/NTI-terraform-aws.git
 
 ```
 
