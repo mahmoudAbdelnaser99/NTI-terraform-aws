@@ -29,9 +29,6 @@ This project uses **Terraform** to provision a complete cloud infrastructure on 
 ## Architecture Diagrams
 ![project](attachment/project.png)
 
-### VPC and Subnets
-![VPC and Subnets](attachment/image.png)
-
 ### EC2 Instances
 ![EC2 Instances](attachment/instances.png)
 
