@@ -1,0 +1,25 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+*.tfstate.*
+
+# Local .terraform directory
+.terraform/
+
+# Variable files containing sensitive data
+*.tfvars
+*.tfvars.json
+
+# Crash log files
+crash.log
+
+# Terraform plan output
+terraform.tfplan
+
+# Sensitive or temporary output files
+outputs.txt
+
+# IDE or editor settings (optional)
+.vscode/
+.idea/
+*.swp
